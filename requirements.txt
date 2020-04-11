@@ -1,0 +1,7 @@
+numpy
+matplotlib
+scipy==1.2.0
+tensorflow==1.15.0
+glob
+opencv-python
+# opencv-contrib-python
