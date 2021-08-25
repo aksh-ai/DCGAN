@@ -1,7 +1,7 @@
 numpy
 matplotlib
 scipy==1.2.0
-tensorflow==2.4.0
+tensorflow==2.5.1
 glob
 opencv-python
 # opencv-contrib-python
